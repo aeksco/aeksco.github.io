@@ -5,7 +5,7 @@ theme = "aerial"
 
 [params]
   name = "Alexander Schwartzberg"
-  about = "Developer &nbsp;&bull;&nbsp; Product Designer &nbsp;&bull;&nbsp;"
+  about = "Developer &nbsp;&bull;&nbsp; Product Designer"
   copyright = "Alexander Schwartzberg"
   #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
   bg_scroll = "false"
