@@ -1,3 +1,42 @@
-baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Alexander Schwartzberg"
+baseurl = "http://aeks.co"
+theme = "aerial"
+
+[params]
+  name = "Alexander Schwartzberg"
+  about = "Developer &nbsp;&bull;&nbsp; Product Designer &nbsp;&bull;&nbsp;"
+  copyright = "Alexander Schwartzberg"
+  #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
+  bg_scroll = "false"
+  favicon = "favicon.ico"
+
+# [[params.social]]
+#   medium = "Twitter"
+#   icon = "twitter"
+#   link = "#"
+
+# [[params.social]]
+#   medium = "Facebook"
+#   icon = "facebook"
+#   link = "#"
+
+# [[params.social]]
+#   medium = "Dribbble"
+#   icon = "dribbble"
+#   link = "#"
+
+[[params.social]]
+  medium = "Github"
+  icon = "github"
+  link = "https://github.com/aeksco"
+
+[[params.social]]
+  medium = "LinkedIn"
+  icon = "linkedin"
+  link = "https://www.linkedin.com/in/aeksco"
+
+[[params.social]]
+  medium = "Email"
+  icon = "envelope-o"
+  link = "mailto:aeksco@gmail.com"
