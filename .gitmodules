@@ -3,5 +3,5 @@
 	url = https://github.com/sethmacleod/aerial.git
 [submodule "public"]
 	path = public
-	url = git@github.com:aeksco/aeksco.github.io.git
+	url = https://github.com/aeksco/aeksco.github.io.git
 	branch = master
